@@ -1,23 +1,52 @@
-Hi, I'm Lilian 👋
+# Hi, I'm Lilian 👋
 
-About Me
-Aspiring Data Analyst | Python, SQL, Pandas, NumPy | Passionate about data-driven solutions.
+I'm an aspiring **Data Analyst** passionate about turning data into insights and building projects that solve real-world problems.
+
+---
+
+## 🔹 About Me
+- Data Enthusiast | Python, SQL, Excel | Analytics & Visualization  
+- Passionate about learning, experimenting with data, and improving decision-making  
+- Always exploring ways to make data meaningful and actionable  
+
+---
 
 ## 💻 Skills
 
-- **Languages & Tools:** Python ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD00), SQL ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white), Excel ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), Power BI ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+- **Languages & Tools:** 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="25" height="25"/> SQL, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="25" height="25"/> Excel, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="25" height="25"/> Power BI
 
-- **Data Analysis:** Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white), Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white), Seaborn ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
+- **Data Analysis:** 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="25" height="25"/> Pandas, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="25" height="25"/> NumPy, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="25" height="25"/> Matplotlib, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="25" height="25"/> Seaborn
 
-- **Machine Learning:** Scikit-learn ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Machine Learning:** 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="25" height="25"/> Scikit-learn
 
-- **Other:** Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), GitHub ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **Other:** 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/> GitHub, 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="25" height="25"/> Flask
 
+---
 
-Projects
+## 📂 Projects
+ 
+**[BeiRadar](YOUR_GITHUB_LINK)** – Data-driven radar platform for monitoring and visualization. Web dashboard using **Flask**.  
 
-- BeiRadar - A supermarket product price comparison web app
-  
+*More projects coming soon…*
 
-Connect with Me
+---
+
+## 📈 GitHub Stats
+![Lilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MsLilian18&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
 - [LinkedIn](YOUR_LINK)  
