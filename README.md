@@ -16,14 +16,16 @@ I'm an aspiring **Data Analyst** passionate about turning data into insights and
 - **Languages & Tools:** 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>](https://www.python.org/) Python, 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>](https://www.sqlite.org/) SQL, 
-  [<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="25"/>](https://www.microsoft.com/excel) Excel, 
-  [<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="25"/>](https://powerbi.microsoft.com/) Power BI
+  [<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="25" alt="Excel"/>](https://www.microsoft.com/excel) Excel, 
+  [<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="25" alt="Power BI"/>](https://powerbi.microsoft.com/), Power BI,
+  [<img src="https://cdn.simpleicons.org/r/276DC3" width="25" alt="R"/>](https://www.r-project.org/) R,
+
 
 - **Data Analysis:** 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>](https://pandas.pydata.org/) Pandas, 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="25"/>](https://numpy.org/) NumPy, 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="25"/>](https://matplotlib.org/) Matplotlib, 
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="25"/>](https://seaborn.pydata.org/) Seaborn
+  [<img src="https://cdn.simpleicons.org/seaborn/1A5276" width="25" alt="Seaborn"/>](https://seaborn.pydata.org/) Seaborn
 
 - **Machine Learning:** 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="25"/>](https://scikit-learn.org/) Scikit-learn
