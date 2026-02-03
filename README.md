@@ -14,11 +14,20 @@ I'm an aspiring **Data Analyst** passionate about turning data into insights and
 ## 💻 Skills
 
 - **Languages & Tools:** 
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>](https://www.python.org/) Python, 
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>](https://www.sqlite.org/) SQL, 
-  [<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="25"/>] Microsoft Excel  
-  [<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="25"/>] Power BI
-  [<img src="https://cdn.simpleicons.org/r/276DC3" width="25" alt="R"/>](https://www.r-project.org/) R,
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+  [Python](https://www.python.org/)  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>
+  [SQL](https://www.sqlite.org/)  
+  
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="25"/>
+  Microsoft Excel  
+  
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="25"/>
+  Power BI  
+  
+  <img src="https://cdn.simpleicons.org/r/276DC3" width="25"/>
+  [R](https://www.r-project.org/)
 
 
 - **Data Analysis:** 
