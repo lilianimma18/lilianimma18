@@ -37,10 +37,5 @@ I'm an aspiring **Data Analyst** passionate about turning data into insights and
 ---
 
 ## 📂 Projects
- 
-**[BeiRadar]([["https://github.com/MsLilian18/BeiRadar]](https://github.com/lilianimma18/BeiRadar-Demo"]])** – Supermarket price comparison platform for monitoring and visualization. Web dashboard using **Flask**.  
+ BeiRadar– Supermarket price comparison platform for monitoring and visualization. Web dashboard using **Flask**.  
 
----
-
-## 📫 Connect with Me
-- [LinkedIn](YOUR_LINK)  
